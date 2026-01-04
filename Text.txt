@@ -4,3 +4,4 @@ hello
 hello again
 heelo
 ayo its megit 
+now isung bash 
