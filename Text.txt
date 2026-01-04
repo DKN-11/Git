@@ -1,1 +1,2 @@
 Hello I'm using this folder to learn git
+hi
